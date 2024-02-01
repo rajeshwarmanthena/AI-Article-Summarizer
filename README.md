@@ -1,10 +1,18 @@
 # AI Article Summarizer
 
-Welcome to the AI Article  Summarizer repository! This project is a article summarization tool developed by Rajeshwar Manthena using React, Vite, and the Rapid API. You can access the live version of this application [here](https://65ba21c3088606b5bd82ebd9--storied-sunflower-dee5b0.netlify.app/).
+Welcome to the AI Article  Summarizer repository! This project is a article summarization tool developed by Rajeshwar Manthena using React, Vite, and the Rapid API. 
+
+### You can access the live version of this application [here](https://65ba21c3088606b5bd82ebd9--storied-sunflower-dee5b0.netlify.app/).
 
 ## About
 
 This AI Article  Summarizer utilizes Rapid API to condense lengthy article into concise summaries, making it easier to grasp the main points of a article. Whether you're a student, researcher, or just someone looking to save time, this tool is designed to enhance your productivity by extracting key information from large bodies of text.
+
+## Screenshots
+
+### Homepage
+![Homepage](homepage.png)
+
 
 ## Features
 
