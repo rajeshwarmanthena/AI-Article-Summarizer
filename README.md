@@ -1,26 +1,24 @@
-# AI Text Summarizer
+# AI Article Summarizer
 
-Welcome to the AI Text Summarizer repository! This project is a text summarization tool developed by [Your Name] using React, Vite, and the Rapid API. You can access the live version of this application [here](https://65ba21c3088606b5bd82ebd9--storied-sunflower-dee5b0.netlify.app/).
+Welcome to the AI Article  Summarizer repository! This project is a article summarization tool developed by Rajeshwar Manthena using React, Vite, and the Rapid API. You can access the live version of this application [here](https://65ba21c3088606b5bd82ebd9--storied-sunflower-dee5b0.netlify.app/).
 
 ## About
 
-This AI Text Summarizer utilizes advanced natural language processing techniques to condense lengthy texts into concise summaries, making it easier to grasp the main points of a document or article. Whether you're a student, researcher, or just someone looking to save time, this tool is designed to enhance your productivity by extracting key information from large bodies of text.
+This AI Article  Summarizer utilizes Rapid API to condense lengthy article into concise summaries, making it easier to grasp the main points of a article. Whether you're a student, researcher, or just someone looking to save time, this tool is designed to enhance your productivity by extracting key information from large bodies of text.
 
 ## Features
 
-- **Efficient Summarization**: Quickly summarize long texts into shorter, digestible chunks.
-- **Customizable Summary Length**: Adjust the length of the summary to suit your preferences or specific requirements.
-- **User-Friendly Interface**: Intuitive design makes it easy to input text and view summarized results.
-- **Fast Processing**: Leveraging cutting-edge AI algorithms for swift and accurate summarization.
+- **Efficient Summarization**: Quickly summarize long article into shorter, digestible chunks.
+- **User-Friendly Interface**: Intuitive design makes it easy to input articles link and view summarized results.
+- **Fast Processing**: Developed upon Open API for swift and accurate summarization.
 - **Live Deployment**: Access the application seamlessly through the provided live link.
 
 ## Usage
 
 1. Visit the [live website](https://65ba21c3088606b5bd82ebd9--storied-sunflower-dee5b0.netlify.app/).
-2. Input the text you wish to summarize into the designated text area.
-3. Choose the desired length for the summary (if applicable).
-4. Click on the "Summarize" button to generate the summary.
-5. View and utilize the summarized text for your needs.
+2. Input the article LINK  you wish to summarize into the designated text area.
+3. Click on the "Summarize" button to generate the summary.
+4. View and utilize the summarized text for your needs.
 
 ## Technologies Used
 
