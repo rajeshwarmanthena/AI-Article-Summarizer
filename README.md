@@ -11,7 +11,7 @@ This AI Article  Summarizer utilizes Rapid API to condense lengthy article into 
 ## Screenshots
 
 ### Homepage
-![Homepage](homepage.png)
+![Homepage](Homepage.png)
 
 
 ## Features
